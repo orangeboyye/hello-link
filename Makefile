@@ -2,8 +2,6 @@
 
 CFLAGS += -std=c99 -g -Wall
 
-APP := test
-OBJS := test.o sort.o
 
 all : hello libhello_dynamic_full.so
 
