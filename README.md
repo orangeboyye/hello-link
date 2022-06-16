@@ -1,11 +1,3 @@
 # hello link
 
-say_hello_direct
-
-say_hello_static_implicit
-
-say_hello_static_explicit
-
-say_hello_dynamic_partial
-
-say_hello_dynamic_partial
+本程序演示了隐式静态链接、显示静态链接、半动态链接、完全动态链接和make的用法
