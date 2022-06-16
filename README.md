@@ -1,0 +1,11 @@
+# hello link
+
+say_hello_direct
+
+say_hello_static_implicit
+
+say_hello_static_explicit
+
+say_hello_dynamic_partial
+
+say_hello_dynamic_partial
